@@ -416,7 +416,7 @@ NetconfSession.RUNNING);
     }
 
 
-    static public void main(String args[]) {
+    /*static public void main(String args[]) {
         System.out.println("In MAIN");
         try {
             Simple.enable();
@@ -463,7 +463,7 @@ NetconfSession.RUNNING);
             System.out.println("ERROR " + e);
             e.printStackTrace();
         }
-    }
+    }*/
 }
 
 //public class App 
